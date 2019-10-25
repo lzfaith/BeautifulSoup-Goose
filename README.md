@@ -1,2 +1,2 @@
 # BeautifulSoup-Goose
-Using BeautifulSoup grabs products' information.
+Using Python's BeautifulSoup lib to grab products' information.
