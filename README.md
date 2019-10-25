@@ -1,2 +1,2 @@
 # BeautifulSoup-Goose
-## Using BeautifulSoup grabs products' information.
+Using BeautifulSoup grabs products' information.
