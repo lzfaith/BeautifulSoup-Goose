@@ -2,7 +2,6 @@
 @project: Learn_DP
 @author: linjo
 @file: Products.py
-@date: 2019-10-19
 @time: 12:02 PM
 
 """
@@ -128,7 +127,7 @@ if __name__ == '__main__':
             'Link': link_list
         }
 
-        ws = load_workbook('Goose.xlsx')
+        ws = load_workbook('Goose.xlsx')  # excel file path
         if tile_list[0] in ws.get_sheet_names():
             temp = ws.get_sheet_by_name(tile_list[0])
             ws.remove_sheet(temp)
